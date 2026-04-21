@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Configurações customizadas */
+@theme {
+  --color-verde-50: #f1f8e9;
+  --color-verde-100: #dcedc8;
+  --color-verde-500: #2e7d32;
+  --color-verde-600: #25a244;
+  --color-verde-700: #1b5e20;
+
+  --font-family-inter: 'Inter', ui-sans-serif, system-ui;
+}
