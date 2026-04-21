@@ -12,13 +12,6 @@ const nextConfig = {
       },
     ],
   },
-  // Next.js 14+ simples
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true,
-  },
 }
 
 module.exports = nextConfig
